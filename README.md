@@ -1,13 +1,14 @@
 # float_tab
 
-A new Flutter package project.
-
+A Fluter tabview that text color can change with animation and bg color change with animation
+![avatar](demo.png)
 ## Getting Started
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
 multiple Flutter or Dart projects.
+
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 

@@ -1,8 +1,9 @@
 name: float_tab
-description: A new Flutter package project.
+description: A Fluter tabview widget that text color can change with animation and bg color change with animation
 version: 0.0.1
+
 author:
-homepage:
+homepage: https://github.com/ventureli/float_tab
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
